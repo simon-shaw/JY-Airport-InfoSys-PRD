@@ -1,0 +1,171 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._流程形状 {
+}
+.table_cell {
+}
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._图片 {
+}
+._标题样式 {
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+  font-size:24px;
+  color:#413700;
+  text-align:left;
+}
+._表格样式 {
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+}
+._表格标题 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+}
+._正文样式 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:21px;
+}
+._图片1 {
+  color:#000000;
+}
+.box_2 {
+}
+.box_3 {
+}
+.icon {
+}
+.ellipse {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._页面标题 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:center;
+}
+.box_1 {
+}
+.placeholder {
+}
+.line {
+}
+._流程图连线 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.line1 {
+}
+.arrow {
+}
+.image1 {
+}
+.shape {
+}
+._文档正文 {
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:20px;
+}
+.flow_shape {
+}
